@@ -1,0 +1,16 @@
+{
+  "title": "[里希特/阿鲁卡多]血缘关系 Blood Relations",
+  "author": "BlatantlyQueer,zrnp",
+  "root": "./",
+  "styles": {
+    "website" : "stylesheet.css",
+    "pdf" : "stylesheet.css",
+    "mobi" : "stylesheet.css",
+    "epub" : "stylesheet.css"
+  },
+  "links" : {
+    "sidebar" : {
+      "我的个人博客" : "https://zrnp.github.io"
+    }
+  }
+}
