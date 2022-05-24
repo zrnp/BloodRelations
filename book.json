@@ -10,7 +10,28 @@
   },
   "links" : {
     "sidebar" : {
-      "我的个人博客" : "https://zrnp.github.io"
+      "zrnp的个人博客" : "https://zrnp.github.io"
     }
-  }
+  },
+  "plugins": [
+        "hide-element",
+        "back-to-top-button",
+		"chapter-fold",
+		"insert-logo",
+		"-lunr", 
+          "-search", 
+          "search-pro",
+		  "splitter",
+		  "custom-favicon"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+		"insert-logo": {
+			"url": "img/Sephiroth.gif",
+			"style": "background: none; max-height: 50px; min-height: 50px"
+      },
+	  "favicon": "img/Sephiroth.ico"
+    }
 }
