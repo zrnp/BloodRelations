@@ -1,6 +1,8 @@
 # [里希特/阿鲁卡多]血缘关系 Blood Relations
 
 <p class="message">作者：BlatantlyQueer<br/>译者：zrnp</p>
+
+
 **作者注：**
 
 里希特跟随阿鲁卡多进入逆城，决心弥补他带来的麻烦。阿鲁卡多情不自禁地想起了300多年前他所爱的人。
