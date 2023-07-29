@@ -1,4 +1,4 @@
-# [里希特/阿鲁卡多]血缘关系 Blood Relations
+# [里希特/阿鲁卡多]血之联系 Blood Relations
 
 <p class="message">作者：BlatantlyQueer<br/>译者：zrnp</p>
 

@@ -1,6 +1,6 @@
 # Summary
 
-* [[里希特/阿鲁卡多]血缘关系 Blood Relations](README.md)
+* [[里希特/阿鲁卡多]血之联系 Blood Relations](README.md)
     * [第一章：等待](ch1.md)
     * [第二章：进展](ch2.md)
     * [第三章：圆形竞技场](ch3.md)
