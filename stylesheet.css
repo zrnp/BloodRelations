@@ -66,11 +66,9 @@ blockquote {
     margin: 0 1em;
     border-left: 4px solid #888888;
 }
-.cyxy-trs-source-ted {
-  font-size: 0.8em;
+p{
   font-family:"TNR",Times New Roman,serif;
   display: block;}
-.cyxy-trs-target{display:block;}
 hr {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: border-box;
