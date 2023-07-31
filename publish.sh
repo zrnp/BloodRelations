@@ -1,7 +1,6 @@
 cd C:\Users\dell\Documents\BloodRelations
 git checkout master
 gitbook init
-gitbook install
 gitbook build
 git add .
 git commit -m 'update gitbook'
